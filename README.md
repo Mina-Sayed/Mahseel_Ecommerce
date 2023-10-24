@@ -35,9 +35,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yourusername/e-commerce-product-management-nestjs.git
-
+   ```bash  
+    https://github.com/Mina-Sayed/Mahseel_Ecommerce.git
 
 ## Installation
 
